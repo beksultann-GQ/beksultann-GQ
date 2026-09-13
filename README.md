@@ -16,10 +16,10 @@
 ### 🧑‍💻 About me
 
 - 🏗️ **Data Engineer** at Freedom Insurance — building batch & streaming pipelines, data marts for analytics and business teams
-- 🔄 Daily stack: **Airflow · SQL · PostgreSQL · SQL Server · Kafka / Redpanda · Grafana**
+- 🔄 Daily stack: **Airflow · SQL · PostgreSQL · SQL Server · Oracle · Kafka / Redpanda · Grafana**
 - 🤝 Work directly with business: gather requirements → design data model → deliver a mart people actually use
 - 🎓 **ML / DS background** — 390-hour Machine Learning program (ITechResearch, Tech Orda / Astana Hub, 2026) + hands-on projects: forecasting, CV, NLP
-- 📚 Currently levelling up: **Apache Spark · Docker**
+- 📚 Currently levelling up: **Apache Spark · Docker · ClickHouse · NoSQL (Redis, MongoDB)**
 
 ### 🛠️ Tech stack
 
@@ -30,6 +30,7 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/SQL_Server_/_SSMS-CC2927?style=flat-square">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white">
   <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white">
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white">
   <img src="https://img.shields.io/badge/Redpanda-E4451C?style=flat-square">
@@ -43,6 +44,9 @@
 <p>
   <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
 </p>
 
 **ML / Data Science**
@@ -65,7 +69,7 @@
 | **Pipelines** | Batch ETL/ELT in Airflow: sources → staging → core → marts, scheduling, retries, alerting |
 | **Streaming** | Event ingestion via Kafka / Redpanda into PostgreSQL |
 | **Data marts** | Design and maintain analytical marts for business & BI; data modelling (facts / dimensions) |
-| **Databases** | PostgreSQL, SQL Server (SSMS): query optimisation, indexes, migrations |
+| **Databases** | PostgreSQL, SQL Server (SSMS), Oracle: query optimisation, indexes, migrations, cross-DB data transfer |
 | **Monitoring** | Grafana dashboards for pipeline health and data freshness |
 | **Business** | Requirements gathering, translating business questions into data models and metrics |
 
@@ -81,13 +85,15 @@
 
 ### 🗺️ Roadmap
 
-- [x] Airflow, PostgreSQL, SQL Server, Kafka / Redpanda, Grafana — in production daily
+- [x] Airflow, PostgreSQL, SQL Server, Oracle, Kafka / Redpanda, Grafana — in production daily
 - [x] ML fundamentals → Deep Learning → NLP / CV (390h program + projects)
 - [ ] Apache Spark (PySpark, batch + structured streaming)
 - [ ] Docker / Docker Compose for every pipeline
 - [ ] dbt for transformations & tests
 - [ ] Data quality & observability (Great Expectations / Soda)
 - [ ] ClickHouse for analytical workloads
+- [ ] NoSQL basics: Redis (cache / queues), MongoDB (document store)
+- [ ] MySQL / SQLite — same SQL, different engines
 
 ### 📊 GitHub stats
 
