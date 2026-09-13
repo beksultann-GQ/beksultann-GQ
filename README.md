@@ -19,34 +19,48 @@
 - 🔄 Daily stack: **Airflow · SQL · PostgreSQL · SQL Server · Oracle · Kafka / Redpanda · Grafana**
 - 🤝 Work directly with business: gather requirements → design data model → deliver a mart people actually use
 - 🎓 **ML / DS background** — 390-hour Machine Learning program (ITechResearch, Tech Orda / Astana Hub, 2026) + hands-on projects: forecasting, CV, NLP
-- 📚 Currently levelling up: **Apache Spark · Docker · ClickHouse · NoSQL (Redis, MongoDB)**
+- 🧰 Also: **Spark · Docker · ClickHouse · MySQL · Redis · MongoDB** — pet projects & experiments
 
 ### 🛠️ Tech stack
 
-**Data Engineering**
+**Languages & tools**
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL_Server_/_SSMS-CC2927?style=flat-square">
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white">
+</p>
+
+**Orchestration, streaming & processing**
+
+<p>
   <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white">
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white">
   <img src="https://img.shields.io/badge/Redpanda-E4451C?style=flat-square">
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white">
-  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white">
 </p>
 
-**Learning now**
+**Databases**
 
 <p>
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL_Server_/_SSMS-CC2927?style=flat-square">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black">
+  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black">
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
+</p>
+
+**Monitoring & ML ops**
+
+<p>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white">
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
 </p>
 
 **ML / Data Science**
@@ -58,8 +72,6 @@
   <img src="https://img.shields.io/badge/LightGBM-2E8B57?style=flat-square">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white">
 </p>
 
 ### 💼 What I do as a Data Engineer
@@ -87,13 +99,12 @@
 
 - [x] Airflow, PostgreSQL, SQL Server, Oracle, Kafka / Redpanda, Grafana — in production daily
 - [x] ML fundamentals → Deep Learning → NLP / CV (390h program + projects)
-- [ ] Apache Spark (PySpark, batch + structured streaming)
-- [ ] Docker / Docker Compose for every pipeline
+- [x] Spark, Docker, ClickHouse, Redis, MongoDB — pet projects
 - [ ] dbt for transformations & tests
 - [ ] Data quality & observability (Great Expectations / Soda)
-- [ ] ClickHouse for analytical workloads
-- [ ] NoSQL basics: Redis (cache / queues), MongoDB (document store)
-- [ ] MySQL / SQLite — same SQL, different engines
+- [ ] CDC with Debezium (Postgres / Oracle → Kafka)
+- [ ] Lakehouse: Apache Iceberg / Delta Lake on S3-compatible storage
+- [ ] Kubernetes for pipeline deployment
 
 ### 📊 GitHub stats
 
