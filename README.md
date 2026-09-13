@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Bexultan 👋</h1>
+<h1 align="center">Bakhram Bexultan </h1>
 
 <p align="center">
   <b>Data Engineer</b> @ Freedom Insurance · Almaty 🇰🇿<br>
